@@ -49,8 +49,10 @@ Listas no ordenadas: Puedes utilizar guiones (-), asteriscos (*) o signos de má
 ## Commands used in git
 1. Check the status of a local repository.
  - git status
-3. Add individual files or globally.
-4. Add comments to the commit.
-5. Upload your changes to the remote repository.
-6. Create, browse, and delete branches.
-7. Roll back a repository to a specific commit.
+2. Add individual files or globally.
+ - git add nombre_del_archivo   # Para agregar un archivo específico
+ - git add .                    # Para agregar todos los archivos modificados y nuevos
+3. Add comments to the commit.
+4. Upload your changes to the remote repository.
+5. Create, browse, and delete branches.
+6. Roll back a repository to a specific commit.
