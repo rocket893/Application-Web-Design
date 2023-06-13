@@ -46,3 +46,11 @@ Listas no ordenadas: Puedes utilizar guiones (-), asteriscos (*) o signos de má
 
 - Estas son solo algunas de las opciones de etiquetado disponibles en GitHub. Puedes explorar más opciones y funciones avanzadas en la documentación oficial de GitHub sobre la sintaxis de Markdown.
 
+## Commands used in git
+1. Check the status of a local repository.
+ - git status
+3. Add individual files or globally.
+4. Add comments to the commit.
+5. Upload your changes to the remote repository.
+6. Create, browse, and delete branches.
+7. Roll back a repository to a specific commit.
