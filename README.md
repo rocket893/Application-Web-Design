@@ -45,3 +45,4 @@ Listas no ordenadas: Puedes utilizar guiones (-), asteriscos (*) o signos de má
 
 
 - Estas son solo algunas de las opciones de etiquetado disponibles en GitHub. Puedes explorar más opciones y funciones avanzadas en la documentación oficial de GitHub sobre la sintaxis de Markdown.
+
