@@ -53,6 +53,13 @@ Listas no ordenadas: Puedes utilizar guiones (-), asteriscos (*) o signos de má
  - git add nombre_del_archivo   # Para agregar un archivo específico
  - git add .                    # Para agregar todos los archivos modificados y nuevos
 3. Add comments to the commit.
+ - git commit -m "Mensaje del commit"
 4. Upload your changes to the remote repository.
+ - git push origin nombre_de_la_rama
 5. Create, browse, and delete branches.
+ - git branch nombre_de_la_rama               # Para crear una nueva rama
+ - git checkout nombre_de_la_rama             # Para cambiar a una rama existente
+ - git branch -d nombre_de_la_rama            # Para eliminar una rama
 6. Roll back a repository to a specific commit.
+ - git log                          # Ver el historial de commits y encontrar el hash del commit deseado
+ - git checkout hash_del_commit     # Reemplaza "hash_del_commit" con el hash del commit al que deseas retroceder
